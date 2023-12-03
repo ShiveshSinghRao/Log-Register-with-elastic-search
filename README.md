@@ -15,7 +15,7 @@ This project is a demonstration of implementing Elasticsearch for efficient log 
 ## Technologies Used
 - **Elasticsearch**: Used as the primary database for log storage and querying.
 - **React.js**: Frontend framework used for building the user interface.
-- **Node.js**: Backend server handling API requests and Elasticsearch interactions.
+- **Node.js & Express.js**: Backend server handling API requests and Elasticsearch interactions.
 
 ## Prerequisites
 - Node.js and npm installed
