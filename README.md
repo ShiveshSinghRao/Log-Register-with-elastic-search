@@ -3,6 +3,7 @@
 
 ## Overview
 This project is a demonstration of implementing Elasticsearch for efficient log management and querying. It provides functionalities for querying logs based on various parameters such as level, message, resource ID, trace ID, span ID, commit, and parent resource ID.
+![Uploading 1111111111.JPG…]()
 
 ## Features
 - **Log Ingestion**: Allows users to input log data with specified fields.
@@ -23,18 +24,18 @@ This project is a demonstration of implementing Elasticsearch for efficient log 
 2. Install dependencies:
    - For frontend:
      ```
-     cd frontend-directory
-     npm install
+     cd client
+     npm install react-table react-toastify
      ```
    - For backend:
      ```
-     cd backend-directory
-     npm install
+     cd api
+     yarn install express nodemon cors express-async-errors body-parser @elastic/elasticsearch
      ```
 3. Configure Elasticsearch connection details in the backend code.
 
 ## Usage
-1. Start the backend server: `npm start` in the backend directory.
+1. Start the backend server: `yarn start` in the backend directory.
 2. Start the frontend application: `npm start` in the frontend directory.
 3. Access the application via `http://localhost:your-port`.
 
