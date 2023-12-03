@@ -19,7 +19,7 @@ This project is a demonstration of implementing Elasticsearch for efficient log 
 - Elasticsearch set up and running locally or remotely
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/your-username/repository-name.git`
+1. Clone the repository: `git clone https://github.com/your-username/repository-name.git](https://github.com/ShiveshSinghRao/Log-Register-with-elastic-search`
 2. Install dependencies:
    - For frontend:
      ```
