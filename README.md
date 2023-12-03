@@ -3,7 +3,9 @@
 
 ## Overview
 This project is a demonstration of implementing Elasticsearch for efficient log management and querying. It provides functionalities for querying logs based on various parameters such as level, message, resource ID, trace ID, span ID, commit, and parent resource ID.
-![Uploading 1111111111.JPG…]()
+
+![1111111111](https://github.com/ShiveshSinghRao/Log-Register-with-elastic-search/assets/94308757/e94ed856-70b4-42d2-94db-6d8dd37abfa1)
+
 
 ## Features
 - **Log Ingestion**: Allows users to input log data with specified fields.
