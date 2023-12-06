@@ -6,6 +6,7 @@ This project is a demonstration of implementing Elasticsearch for efficient log 
 
 ![1111111111](https://github.com/ShiveshSinghRao/Log-Register-with-elastic-search/assets/94308757/e94ed856-70b4-42d2-94db-6d8dd37abfa1)
 
+### Watch how project works on :https://drive.google.com/file/d/1TYxDKFWSdCvT75qae2B5020kRQXMYCg6/view?usp=drive_link
 
 ## Features
 - **Log Ingestion**: Allows users to input log data with specified fields.
